@@ -22,11 +22,6 @@
 		"symfony/console": "3.4.16 || 4.1.5"
 	},
 	"require-dev": {
-		"ext-intl": "*",
-		"ext-mysqli": "*",
-		"ext-simplexml": "*",
-		"ext-soap": "*",
-		"ext-zip": "*",
 		"brianium/paratest": "^2.0 || ^3.0",
 		"consistence/coding-standard": "^3.5",
 		"dealerdirect/phpcodesniffer-composer-installer": "^0.4.4",
